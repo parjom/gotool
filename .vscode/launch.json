@@ -10,7 +10,9 @@
 			"request": "launch",
 			"mode": "test",
 			"program": "${file}",
-			"args": []
+			"args": [
+				
+			]
 		}
 	]
 }
